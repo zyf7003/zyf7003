@@ -23,7 +23,7 @@ Below is a curated list of my active live projects and web applications. Feel fr
 ## 🚀 Featured Projects & Web Apps
 
 ### 🎨 1. TattooVault — AI Tattoo Design Generator
-* **Website**: [https://tattoovault.io]
+* **Website**: https://tattoovault.io
 * **Tagline**: Free custom AI tattoo generator for artists and enthusiasts.
 * **Description**: A high-performance, web-based platform tailored for rendering custom tattoo styles. It features advanced server-side processing to generate unique, high-fidelity custom designs across popular styles like **Blackwork**, **Traditional**, and **Fineline** in seconds.
 
